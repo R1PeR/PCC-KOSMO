@@ -1,7 +1,7 @@
 {
   "main.css": "/pcc-kosmo/static/css/main.10984e94.chunk.css",
-  "main.js": "/pcc-kosmo/static/js/main.6a2ec2c3.chunk.js",
-  "main.js.map": "/pcc-kosmo/static/js/main.6a2ec2c3.chunk.js.map",
+  "main.js": "/pcc-kosmo/static/js/main.e820c82f.chunk.js",
+  "main.js.map": "/pcc-kosmo/static/js/main.e820c82f.chunk.js.map",
   "static/js/1.426900ba.chunk.js": "/pcc-kosmo/static/js/1.426900ba.chunk.js",
   "static/js/1.426900ba.chunk.js.map": "/pcc-kosmo/static/js/1.426900ba.chunk.js.map",
   "runtime~main.js": "/pcc-kosmo/static/js/runtime~main.1a777c16.js",
@@ -13,6 +13,6 @@
   "static/media/chemicalcheck_laborbild-3.jpg": "/pcc-kosmo/static/media/chemicalcheck_laborbild-3.bd9168ab.jpg",
   "static/css/main.10984e94.chunk.css.map": "/pcc-kosmo/static/css/main.10984e94.chunk.css.map",
   "index.html": "/pcc-kosmo/index.html",
-  "precache-manifest.edbc939521592c5169b8f8b7fe23afcc.js": "/pcc-kosmo/precache-manifest.edbc939521592c5169b8f8b7fe23afcc.js",
+  "precache-manifest.6e1f52751c27ca366ab124436cc7e321.js": "/pcc-kosmo/precache-manifest.6e1f52751c27ca366ab124436cc7e321.js",
   "service-worker.js": "/pcc-kosmo/service-worker.js"
 }
