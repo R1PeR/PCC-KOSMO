@@ -1,9 +1,9 @@
 {
-  "main.css": "/pcc-kosmo/static/css/main.e615722a.chunk.css",
-  "main.js": "/pcc-kosmo/static/js/main.9c1666df.chunk.js",
-  "main.js.map": "/pcc-kosmo/static/js/main.9c1666df.chunk.js.map",
-  "static/js/1.ba360805.chunk.js": "/pcc-kosmo/static/js/1.ba360805.chunk.js",
-  "static/js/1.ba360805.chunk.js.map": "/pcc-kosmo/static/js/1.ba360805.chunk.js.map",
+  "main.css": "/pcc-kosmo/static/css/main.10984e94.chunk.css",
+  "main.js": "/pcc-kosmo/static/js/main.f922a8a8.chunk.js",
+  "main.js.map": "/pcc-kosmo/static/js/main.f922a8a8.chunk.js.map",
+  "static/js/1.426900ba.chunk.js": "/pcc-kosmo/static/js/1.426900ba.chunk.js",
+  "static/js/1.426900ba.chunk.js.map": "/pcc-kosmo/static/js/1.426900ba.chunk.js.map",
   "runtime~main.js": "/pcc-kosmo/static/js/runtime~main.1a777c16.js",
   "runtime~main.js.map": "/pcc-kosmo/static/js/runtime~main.1a777c16.js.map",
   "static/media/pexels-photo-1366942.jpeg": "/pcc-kosmo/static/media/pexels-photo-1366942.4e814698.jpeg",
@@ -11,8 +11,8 @@
   "static/media/phone.svg": "/pcc-kosmo/static/media/phone.fdf4626e.svg",
   "static/media/pin.svg": "/pcc-kosmo/static/media/pin.647b23e6.svg",
   "static/media/chemicalcheck_laborbild-3.jpg": "/pcc-kosmo/static/media/chemicalcheck_laborbild-3.bd9168ab.jpg",
-  "static/css/main.e615722a.chunk.css.map": "/pcc-kosmo/static/css/main.e615722a.chunk.css.map",
+  "static/css/main.10984e94.chunk.css.map": "/pcc-kosmo/static/css/main.10984e94.chunk.css.map",
   "index.html": "/pcc-kosmo/index.html",
-  "precache-manifest.f13959e7c44514cccb82fbcee0aafabb.js": "/pcc-kosmo/precache-manifest.f13959e7c44514cccb82fbcee0aafabb.js",
+  "precache-manifest.370b92d273d3b68cccb6b83b7a68358d.js": "/pcc-kosmo/precache-manifest.370b92d273d3b68cccb6b83b7a68358d.js",
   "service-worker.js": "/pcc-kosmo/service-worker.js"
 }
