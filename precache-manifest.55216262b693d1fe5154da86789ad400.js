@@ -24,19 +24,19 @@ self.__precacheManifest = [
     "url": "/pcc-kosmo/static/js/runtime~main.1a777c16.js"
   },
   {
-    "revision": "28677a33e3eddc3c58fc",
-    "url": "/pcc-kosmo/static/js/main.28677a33.chunk.js"
+    "revision": "0951a15a74aa780e8a77",
+    "url": "/pcc-kosmo/static/js/main.0951a15a.chunk.js"
   },
   {
     "revision": "426900babc751468d347",
     "url": "/pcc-kosmo/static/js/1.426900ba.chunk.js"
   },
   {
-    "revision": "28677a33e3eddc3c58fc",
+    "revision": "0951a15a74aa780e8a77",
     "url": "/pcc-kosmo/static/css/main.10984e94.chunk.css"
   },
   {
-    "revision": "2067eac16b0ea0c9f85415a15a04a215",
+    "revision": "6bbbc950fe132a171b6ce9d2e80c43fa",
     "url": "/pcc-kosmo/index.html"
   }
 ];
