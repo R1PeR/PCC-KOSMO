@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/pcc-kosmo/precache-manifest.55216262b693d1fe5154da86789ad400.js"
+  "/pcc-kosmo/precache-manifest.edbc939521592c5169b8f8b7fe23afcc.js"
 );
 
 workbox.clientsClaim();
