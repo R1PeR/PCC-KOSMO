@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/PCC-KOSMO/precache-manifest.e597985b2bd2b0fa88ab3787efc075f8.js"
+  "/pcc-kosmo/precache-manifest.9d990141fe3ad3810054d4946445b95d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/PCC-KOSMO/index.html", {
+workbox.routing.registerNavigationRoute("/pcc-kosmo/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

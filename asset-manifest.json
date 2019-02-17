@@ -1,13 +1,13 @@
 {
-  "main.css": "/PCC-KOSMO/static/css/main.909849fd.chunk.css",
-  "main.js": "/PCC-KOSMO/static/js/main.605a3d6d.chunk.js",
-  "main.js.map": "/PCC-KOSMO/static/js/main.605a3d6d.chunk.js.map",
-  "static/js/1.24ef8486.chunk.js": "/PCC-KOSMO/static/js/1.24ef8486.chunk.js",
-  "static/js/1.24ef8486.chunk.js.map": "/PCC-KOSMO/static/js/1.24ef8486.chunk.js.map",
-  "runtime~main.js": "/PCC-KOSMO/static/js/runtime~main.f2fecff7.js",
-  "runtime~main.js.map": "/PCC-KOSMO/static/js/runtime~main.f2fecff7.js.map",
-  "static/css/main.909849fd.chunk.css.map": "/PCC-KOSMO/static/css/main.909849fd.chunk.css.map",
-  "index.html": "/PCC-KOSMO/index.html",
-  "precache-manifest.e597985b2bd2b0fa88ab3787efc075f8.js": "/PCC-KOSMO/precache-manifest.e597985b2bd2b0fa88ab3787efc075f8.js",
-  "service-worker.js": "/PCC-KOSMO/service-worker.js"
+  "main.css": "/pcc-kosmo/static/css/main.909849fd.chunk.css",
+  "main.js": "/pcc-kosmo/static/js/main.e764b498.chunk.js",
+  "main.js.map": "/pcc-kosmo/static/js/main.e764b498.chunk.js.map",
+  "static/js/1.24ef8486.chunk.js": "/pcc-kosmo/static/js/1.24ef8486.chunk.js",
+  "static/js/1.24ef8486.chunk.js.map": "/pcc-kosmo/static/js/1.24ef8486.chunk.js.map",
+  "runtime~main.js": "/pcc-kosmo/static/js/runtime~main.1a777c16.js",
+  "runtime~main.js.map": "/pcc-kosmo/static/js/runtime~main.1a777c16.js.map",
+  "static/css/main.909849fd.chunk.css.map": "/pcc-kosmo/static/css/main.909849fd.chunk.css.map",
+  "index.html": "/pcc-kosmo/index.html",
+  "precache-manifest.9d990141fe3ad3810054d4946445b95d.js": "/pcc-kosmo/precache-manifest.9d990141fe3ad3810054d4946445b95d.js",
+  "service-worker.js": "/pcc-kosmo/service-worker.js"
 }
