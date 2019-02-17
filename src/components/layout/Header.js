@@ -13,7 +13,7 @@ class Header extends Component{
                 <Navbar.Collapse id="basic-navbar-nav" className="h-100">
                     <Nav className="ml-auto h-100">
                         <Nav.Link>
-                            <NavLink className="mavLink" to="/" activeClassName="activeLink">Home</NavLink>
+                            <NavLink className="mavLink" to={this} activeClassName="activeLink">Home</NavLink>
                         </Nav.Link>
                         <NavDropdown title="Dropdown" id="basic-nav-dropdown">
                             <NavDropdown.Item>Action</NavDropdown.Item>

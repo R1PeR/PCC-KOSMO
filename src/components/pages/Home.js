@@ -1,7 +1,10 @@
 import React,{Component, Fragment} from 'react';
 import { Row, Col, Button, Container } from 'react-bootstrap';
 import BackgroundImageDiv from '../custom/BackgroundImageDiv';
-import BlackDiv from '../custom/BlackDiv';
+//import BlackDiv from '../custom/BlackDiv';
+import home from './pexels-photo-1366942.jpeg';
+import download from './chemicalcheck_laborbild-3.jpg';
+
 //import "react-responsive-carousel/lib/styles/carousel.min.css";
 //import {Carousel} from 'react-responsive-carousel'
 //import BackgroundImageDiv from '../custom/BackgroundImageDiv'
@@ -9,7 +12,7 @@ class Home extends Component{
     render(){
         return(
             <Fragment>
-                <BackgroundImageDiv url="pexels-photo-1366942.jpeg">
+                <BackgroundImageDiv url={home}>
                     <Row className="justify-content-center home">
                         <Col xs="12" sm="8" md="7" className="align-center">
                             <h3 className="nunito z-index-10 relative">PCC Customer Products</h3>
@@ -28,7 +31,7 @@ class Home extends Component{
                     </Col>
                 </Row>
                 </Container>
-                <BackgroundImageDiv url="chemicalcheck_laborbild-3.jpg">
+                <BackgroundImageDiv url={download}>
                     <Row className="justify-content-center download">
                         <Col xs="12" sm="8" md="7" className="align-center">
                             <h3 className="nunito z-index-10 relative">Our Products</h3>
